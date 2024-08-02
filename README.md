@@ -9,17 +9,18 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+    Innovative Software Developer with 8+ years of experience in full-stack development and blockchain
+    technologies.<br> Expertise in creating scalable, high-performance applications using modern frameworks
+    and languages.<br> Proven track record of delivering complex solutions from concept to deployment.<br>
+    •Proficient in Python, JavaScript, C++, PHP, and Go<br>
+    •Skilled in frontend frameworks like React, Angular, and Vue.js<br>
+    •Experienced in backend technologies including Django, Flask, and Express<br>
+    •Hands-on with blockchain integration, including crypto trading bots and NFT marketplaces<br>
+    •Adept in database management with PostgreSQL, MongoDB, and Redis<br>
+    •Strong in DevOps with Docker, Kubernetes, and cloud services (AWS, Google Cloud)<br>
+    •Focused on performance optimization, security, and user experience<br>
  </div>
- 
+ <br>
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
